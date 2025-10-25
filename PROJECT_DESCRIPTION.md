@@ -1,4 +1,4 @@
-# FUDscan: The Ultimate FOMO/FUD Risk Scanner
+# Fudscan: The Ultimate FOMO/FUD Risk Scanner
 
 **Denomination:** $FUD  
 **Tags:** [risk scanner] [due diligence AI] [Genesis]
@@ -47,7 +47,7 @@ Turn every investor and degen into a professional FUD-buster. Make due diligence
 
 ### Introduction
 
-**FUDscan** is the world's first all-in-one crypto, web3, and tech project scanner bot that does what every investor and trader wishes they had time for: **INSTANT AI DUE DILIGENCE**. Drop any whitepaper, smart contract address, or even a project website, and FUDscan bot goes deep:
+**Fudscan** is the world's first all-in-one crypto, web3, and tech project scanner bot that does what every investor and trader wishes they had time for: **INSTANT AI DUE DILIGENCE**. Drop any whitepaper, smart contract address, or even a project website, and Fudscan bot goes deep:
 
 - Runs advanced scam and ponzi pattern recognition
 - Cross-references founders, funders, and previous history with Crunchbase, GitHub, LinkedIn, court databases
