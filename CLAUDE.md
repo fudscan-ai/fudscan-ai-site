@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**FUDscan** is a static marketing website for the FUDscan AI project - an AI-powered crypto/web3 project scanner bot that performs instant due diligence on crypto projects, whitepapers, smart contracts, and teams. The site is built using the "Ashley" HTML template (by Nazar Miller/millerDigitalDesign).
+**Fudscan** is a static marketing website for the Fudscan AI project - an AI-powered crypto/web3 project scanner bot that performs instant due diligence on crypto projects, whitepapers, smart contracts, and teams. The site is built using the "Ashley" HTML template (by Nazar Miller/millerDigitalDesign).
 
 This is a client-side only static website with no build process or server-side components.
 
@@ -126,12 +126,12 @@ All HTML pages follow the same structural pattern:
 - `contact.html` - Contact page
 - `404.html` - Error page
 
-## Customization for FUDscan
+## Customization for Fudscan
 
-When adapting this template for FUDscan:
+When adapting this template for Fudscan:
 
 1. **Branding**: Update logo (currently "A."), colors (accent color set in `main.js` line 41: `var accent = 'rgba(255, 152, 0, 1)'`)
-2. **Content**: Replace placeholder text with FUDscan content from `PROJECT_DESCRIPTION.md`
+2. **Content**: Replace placeholder text with Fudscan content from `PROJECT_DESCRIPTION.md`
 3. **Preloader**: Update preloader text (currently shows "Pioneering / Creative / Excellence" and "ashley.com")
 4. **Navigation**: Update menu structure in `.mil-main-menu`
 5. **Social Links**: Update social media links in footer
