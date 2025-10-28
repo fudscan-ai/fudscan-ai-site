@@ -22,6 +22,14 @@
     <!-- page name -->
     <title>Fudscan - AI-Powered Crypto Risk Scanner</title>
 
+    <!-- redirect to chat app-->
+    <script>
+        // Redirect only when user visits /chat
+        if (window.location.pathname === "/chat") {
+          window.location.href = "https://fudscan-webapp.vercel.app";
+        }
+      </script>
+
 </head>
 
 <body>
